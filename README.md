@@ -1,6 +1,5 @@
 # Emotion-Recognition
 
-```
 # Emotion Recognition using Deep Learning
 
 This repository contains code for building an emotion recognition system using deep learning. The system can detect emotions like anger, disgust, fear, happy, neutral, sad, surprise, and contempt in images and live video stream.
