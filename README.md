@@ -75,5 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The emotion recognition model is based on the [AffectNet](http://mohammadmahoor.com/affectnet/) dataset.
 - The face detection is performed using the Haar cascade classifier provided by OpenCV.
-
-```
