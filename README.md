@@ -19,7 +19,7 @@ This repository contains code for building an emotion recognition system using d
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/emotion-recognition.git
+   git clone https://github.com/ING-MARWA/Emotion-Recognition.git
    ```
 
 2. Install the required dependencies:
